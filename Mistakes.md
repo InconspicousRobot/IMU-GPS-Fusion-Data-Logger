@@ -1,6 +1,6 @@
 # Mistakes Made
 <div align="center">
-  ### WHere my caffeine-fueled hubris collided violently with reality.
+### Where my caffeine-fueled hubris collided violently with reality.
 </div>
 
 ##### Mistake One
