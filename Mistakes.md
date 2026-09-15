@@ -1,7 +1,6 @@
 # Mistakes Made
-<div align="center">
+
 ### Where my caffeine-fueled hubris collided violently with reality.
-</div>
 
 ##### Mistake One
 When I had finished doing the math derivations and had built out the initial dataframe, I felt like nothing could stop me. of course, when my gyro_z calculations had ballooned to 5.000000e-01, NaN, NaN -7.205759e+15, and then NaN forevermore, I was proven that it would not be an easy ride.
